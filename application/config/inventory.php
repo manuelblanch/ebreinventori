@@ -9,7 +9,7 @@
 | 
 | Example: Institut de l'Ebre
 */
-$config['institution_name']	= "EbreTIC Enginyeria SL";
+$config['institution_name']	= "Manuel SL";
 
 /*
 |--------------------------------------------------------------------------

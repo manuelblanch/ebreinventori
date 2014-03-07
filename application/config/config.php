@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://www.ebretic.com/ebre-inventory';
+$config['base_url']	= 'http://localhost/ebre-inventory';
 
 /*
 |--------------------------------------------------------------------------
